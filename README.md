@@ -2,12 +2,13 @@
 ![WD7 Soluções Web](https://wd7.com.br/marca/marca-wd7.png)
 
 
-## Desafio Programador Full Stack Mobile Júnior
+## Desafio Programador Full Stack Web e Mobile Júnior
 
 
 Este desafio tem como objetivo avaliar os conhecimentos técnicos dos candidatos à vaga de programador através do desenvolvimento de uma aplicação para um "Clube do Livro" seguindo os requisitos descritos neste documento. 
 
-Para realizar o teste mobile, ó desenvolvimento deverá ser feito utilizando a linguagem Flutter onde os dados trafegados poderão ser armazenados internamente, como também poderá ser utilizado alguma API externa, com firebase ou qualquer outra a escolha.
+Para realizar o teste para a vaga de mobile, o desenvolvimento deverá ser feito utilizando a linguagem Flutter onde os dados trafegados poderão ser armazenados internamente, como também poderá ser utilizado alguma API externa, com firebase ou qualquer outra a escolha. Também será permitido o consumo de dados de APIs abertas para carater de demonstração.
+
 
 #### Especificações
 - O sistema deverá ser desenvolvido em formato de API, utilizando REST e JSON
